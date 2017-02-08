@@ -1,0 +1,20 @@
+C:\Users\p130115\AppData\Local\Temporary Projects\Digital Clock\bin\Debug\Digital Clock.exe
+C:\Users\p130115\AppData\Local\Temporary Projects\Digital Clock\bin\Debug\Digital Clock.pdb
+C:\Users\p130115\AppData\Local\Temporary Projects\Digital Clock\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\p130115\AppData\Local\Temporary Projects\Digital Clock\obj\Debug\Digital_Clock.Form1.resources
+C:\Users\p130115\AppData\Local\Temporary Projects\Digital Clock\obj\Debug\Digital_Clock.Properties.Resources.resources
+C:\Users\p130115\AppData\Local\Temporary Projects\Digital Clock\obj\Debug\Digital Clock.csproj.GenerateResource.Cache
+C:\Users\p130115\AppData\Local\Temporary Projects\Digital Clock\obj\Debug\Digital Clock.exe
+C:\Users\p130115\AppData\Local\Temporary Projects\Digital Clock\obj\Debug\Digital Clock.pdb
+E:\Digital Clock\Digital Clock\obj\Debug\Digital Clock.exe
+E:\Digital Clock\Digital Clock\obj\Debug\Digital Clock.pdb
+C:\Users\fortia\Desktop\Digital Clock\Digital Clock\obj\Debug\Digital Clock.exe
+C:\Users\fortia\Desktop\Digital Clock\Digital Clock\obj\Debug\Digital Clock.pdb
+C:\Users\fortia\Desktop\Digital Clock\Digital Clock\bin\Debug\Digital Clock.exe
+C:\Users\fortia\Desktop\Digital Clock\Digital Clock\bin\Debug\Digital Clock.pdb
+C:\Users\fortia\Desktop\Digital Clock\Digital Clock\obj\Debug\Digital_Clock.Form1.resources
+C:\Users\fortia\Desktop\Digital Clock\Digital Clock\obj\Debug\Digital_Clock.Properties.Resources.resources
+C:\Users\fortia\Desktop\Digital Clock\Digital Clock\obj\Debug\Digital Clock.csproj.GenerateResource.Cache
+C:\Users\fortia\Desktop\Digital Clock\Digital Clock\bin\Debug\Digital Clock.exe.config
+C:\Users\fortia\Desktop\Digital Clock\Digital Clock\obj\Debug\Digital Clock.csprojResolveAssemblyReference.cache
+C:\Users\fortia\Desktop\Digital Clock\Digital Clock\obj\Debug\Digital_Clock.AdvanceSetting.resources
